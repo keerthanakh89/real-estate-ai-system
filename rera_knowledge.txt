@@ -1,0 +1,157 @@
+===========================================================
+REAL ESTATE (REGULATION AND DEVELOPMENT) ACT, 2016 – RERA
+BUYER'S LEGAL GUIDE & REGISTRATION CHECKLIST (INDIA)
+===========================================================
+
+SECTION 1: WHAT IS RERA?
+--------------------------
+RERA stands for the Real Estate (Regulation and Development) Act, 2016. It was enacted by the Government of India to regulate the real estate sector, protect homebuyers, and promote transparency. RERA became effective on May 1, 2017. Every state and union territory has its own RERA authority (MahaRERA for Maharashtra, RERA Karnataka, TNRERA for Tamil Nadu, HRERA for Haryana, etc.). RERA makes it mandatory for all commercial and residential real estate projects where the land is over 500 sq. metres, or the number of apartments proposed is more than 8, to register with the RERA authority of the respective state.
+
+SECTION 2: KEY RERA PROVISIONS FOR BUYERS
+-------------------------------------------
+1. Mandatory Project Registration: Builders must register projects with the state RERA before advertising or selling. Buyers should always verify the RERA registration number of any project.
+2. Carpet Area Clarity: RERA defines carpet area strictly — it is the net usable floor area of an apartment excluding the area covered by the external walls, areas under services shafts, exclusive balcony or verandah area. Builders must sell flats only based on carpet area, not super built-up area.
+3. Advance Payment Cap: Builders cannot collect more than 10% of the total cost of the apartment as advance or application fee before signing a registered sale agreement.
+4. Escrow Account: Builders must deposit 70% of funds collected from buyers into a separate escrow account to be used only for construction of that specific project.
+5. Title Clarity Guarantee: Builders must provide clear and marketable title to the property. In case of any defect in title discovered after sale, the buyer is entitled to compensation.
+6. Structural Defect Warranty: After possession, if any structural defect or defect in workmanship, quality, or provision of services is brought to the notice of the promoter within five years, it shall be the duty of the promoter to rectify such defects within 30 days at no cost.
+7. Delayed Possession Compensation: If a builder fails to complete or hand over possession by the agreed date, the buyer is entitled to withdraw with full refund plus interest at SBI's highest marginal cost of lending rate plus 2%.
+8. Interest on Delay (Without Withdrawal): If a buyer does not wish to withdraw, the builder must pay the same rate of interest (SBI MCLR + 2%) for every month of delay.
+9. Alteration Restrictions: The builder cannot make any changes or alterations to the sanctioned plans without the written consent of at least two-thirds of the allottees.
+10. Association of Allottees: Builders must facilitate the formation of a residents' welfare association (RWA) or cooperative society within 3 months after the majority of units are sold.
+11. Possession Certificate: Builders must obtain and share the occupation certificate (OC) and completion certificate from the local authority before handover.
+
+SECTION 3: RERA REGISTRATION CHECKLIST FOR BUYERS
+----------------------------------------------------
+Before booking any property, buyers MUST check the following:
+
+CHECK 1 – VERIFY RERA REGISTRATION
+- Visit the official state RERA website (e.g., rera.karnataka.gov.in for Karnataka).
+- Search the project by name or builder name.
+- Confirm the project has a valid RERA registration number.
+- Check the registered project details: total units, carpet area, promised amenities, completion date.
+- Note: Projects launched after May 1, 2017 without RERA registration are illegal.
+
+CHECK 2 – VERIFY LAND TITLE AND OWNERSHIP
+- Demand the original title deed of the land from the builder.
+- Check for encumbrance certificate (EC) for the past 30 years to confirm no dues or loans on the land.
+- Verify that the land is not agricultural land (requires conversion certificate).
+- Check the khata certificate (in Karnataka) which confirms municipal registration.
+- Confirm the seller (builder) has legal authority to sell the property.
+
+CHECK 3 – VERIFY BUILDING PLAN APPROVALS
+- Ask for the approved building plan issued by the local authority (BDA, BBMP, BMRDA in Bengaluru).
+- Check for Environmental Clearance (EC) if the project has more than 20,000 sq. metres of built-up area.
+- Verify the layout approval from the relevant development authority.
+- Check Fire NOC for high-rise buildings (above 15 metres).
+
+CHECK 4 – EXAMINE THE SALE AGREEMENT CAREFULLY
+- The sale agreement must be registered and should contain: flat number, floor, carpet area, total price breakup, payment schedule, possession date with penalty clauses, specifications, amenities, maintenance charges structure.
+- The advance collected must not exceed 10% of the property value before sale agreement execution.
+- Look for a force majeure clause — understand under what conditions the builder is protected from delay penalties.
+- Never sign a one-sided builder agreement without legal review.
+
+CHECK 5 – FINANCIAL DUE DILIGENCE
+- Verify that the builder has not mortgaged the land to any bank/NBFC. If the land is mortgaged, get a No Objection Certificate (NOC) from the lender.
+- Check the builder's track record — past project deliveries, court cases, pending disputes on RERA portal.
+- Understand the payment plan: Construction-linked plan is safer than time-linked plan.
+- Check all taxes: GST (currently 5% for under-construction flats, 12% for affordable housing without ITC), stamp duty (varies by state), and registration charges.
+
+CHECK 6 – HOME LOAN AND LEGAL CLARITY
+- If taking a home loan, get the loan sanctioned only from recognised banks/HFCs.
+- Bank's legal team will verify title — but do your own verification independently.
+- Check the loan agreement for pre-payment penalty clauses, floating vs fixed rate implications.
+- Ensure the property is not in a disputed zone, slum area, or flood-prone zone.
+
+CHECK 7 – POSSESSION AND HANDOVER CHECKLIST
+- Do not accept possession without the Occupation Certificate (OC) and Completion Certificate (CC).
+- OC is issued by the local municipal authority confirming the building is legally complete.
+- Without OC, the building is legally unauthorised and utilities may not be connected.
+- Walk-through inspection: check all fittings, fixtures, electrical points, plumbing, windows, doors before signing the handover form.
+- Check common areas: lifts, lobby, parking, clubhouse, generator room as per the agreement.
+- Get all original documents at the time of possession: registered sale deed, khata, tax paid receipts, OC, CC, NOC from lender.
+
+SECTION 4: DOCUMENTS REQUIRED FROM BUILDER
+--------------------------------------------
+- Title Deed of the Land
+- Encumbrance Certificate (EC) – 30 years
+- Khata Certificate and Khata Extract (Karnataka)
+- Approved Building Plan
+- Layout Approval
+- RERA Registration Certificate with project details
+- Environmental Clearance (if applicable)
+- Fire NOC (for high-rise)
+- Loan NOC from the bank (if land is mortgaged)
+- Completion Certificate (CC)
+- Occupation Certificate (OC)
+- Commencement Certificate
+
+SECTION 5: DOCUMENTS REQUIRED FROM BUYER FOR REGISTRATION
+-----------------------------------------------------------
+- Passport-size photographs (4 copies)
+- PAN Card (mandatory for transactions above ₹10 lakhs)
+- Aadhaar Card / any government-issued ID proof
+- Address proof (utility bill, passport, etc.)
+- Sale Agreement / Allotment Letter
+- Demand Draft / Cheque for stamp duty and registration charges
+- NOC from Housing Society (for resale flats)
+- Previous sale deeds (for resale property)
+- Form 60/61 if PAN is not available
+
+SECTION 6: STAMP DUTY AND REGISTRATION CHARGES (KARNATAKA)
+------------------------------------------------------------
+- Stamp Duty: 5% on property value above ₹45 lakhs; 3% for properties between ₹21–45 lakhs; 2% for properties up to ₹20 lakhs.
+- Registration Charges: 1% of the property value.
+- Khata Transfer Fee: Approximately 2% of the stamp duty value.
+- Note: Women buyers may get a concession on stamp duty (check current state policy).
+- Stamp duty is calculated on the guideline value (circle rate) or the market value, whichever is higher.
+
+SECTION 7: RERA GRIEVANCE REDRESSAL
+--------------------------------------
+- A buyer can file a complaint against the builder on the state RERA portal.
+- The RERA authority must adjudicate the complaint within 60 days.
+- Penalties on builders: Up to 10% of the estimated project cost for RERA violations.
+- Imprisonment up to 3 years or fine up to 10% of project cost for non-compliance.
+- Buyers can also approach the Real Estate Appellate Tribunal (REAT) if unsatisfied with RERA authority's order.
+- For consumer issues, the National Consumer Disputes Redressal Commission (NCDRC) is also an option.
+
+SECTION 8: BUYER'S RIGHTS UNDER RERA
+---------------------------------------
+- Right to information: Access to all approved project details on RERA portal.
+- Right to compensation: For any loss due to defective title, construction defects, or delayed possession.
+- Right to withdraw: Full refund with interest if builder delays beyond agreed date.
+- Right to rectification: Builder must fix structural defects within 5 years at no cost.
+- Right to documents: Entitled to all project documents — approved plans, agreements, certificates.
+- Right to know about changes: Builder must inform and get consent before making layout changes.
+
+SECTION 9: COMMON MISTAKES BUYERS MAKE
+-----------------------------------------
+1. Not verifying RERA registration before booking — always check the RERA portal first.
+2. Paying more than 10% advance before signing a registered agreement.
+3. Signing an agreement without reading the fine print or legal review.
+4. Not checking for encumbrances on the land.
+5. Accepting possession without OC and CC.
+6. Ignoring the guideline value and overpaying stamp duty or under-reporting.
+7. Investing in projects with unapproved building plans or layout.
+8. Not following up on the Khata transfer after registration.
+9. Overlooking GST implications on under-construction property.
+10. Not forming or joining the Resident Welfare Association after possession.
+
+SECTION 10: GLOSSARY OF KEY REAL ESTATE TERMS
+-----------------------------------------------
+- Carpet Area: Usable floor area within the four walls of the apartment.
+- Super Built-Up Area: Carpet area + wall thickness + proportionate share of common areas.
+- Built-Up Area: Carpet area + wall thickness.
+- Encumbrance Certificate (EC): Document showing whether a property has any monetary or legal liabilities.
+- Khata: Document in Karnataka that identifies a property for tax purposes with the municipal authority.
+- OC (Occupation Certificate): Certificate issued by local authority confirming the building meets construction norms and is fit for occupation.
+- CC (Completion Certificate): Certificate confirming a project is completed as per approved plan.
+- Circle Rate / Guideline Value: Minimum value set by state government for property registration.
+- MCLR: Marginal Cost of Funds-based Lending Rate — the benchmark rate for bank lending.
+- Force Majeure: Circumstances beyond control (floods, earthquakes, government orders) that may exempt builders from penalties.
+- BDA: Bangalore Development Authority.
+- BBMP: Bruhat Bengaluru Mahanagara Palike — city municipal body.
+- BMRDA: Bangalore Metropolitan Region Development Authority.
+===========================================================
+END OF RERA KNOWLEDGE BASE
+===========================================================
